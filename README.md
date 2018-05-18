@@ -13,6 +13,6 @@ The Spring framework comprises of many modules such as **core, beans, context, e
 
 Sequence
 
-1 - springapplication
-2 - ioccontainerbeanfactory
-3 - ioccontainerapplicationcontext 
+### 1 - springapplication
+### 2 - ioccontainerbeanfactory
+### 3 - ioccontainerapplicationcontext 
