@@ -2,5 +2,43 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_all_jars/persistCore/org.springframework.jdbc-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_all_jars/persistCore/org.springframework.orm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_all_jars/persistCore/org.springframework.transaction-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_all_jars/persistCore/persistence.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_all_jars/persistJdbc/com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_all_jars/persistJdbc/com.springsource.org.apache.commons.lang-2.4.0.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_all_jars/persistJdbc/com.springsource.org.apache.commons.pool-1.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_all_jars/persistJdbc/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_all_jars/persistJdbc/jotm.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_all_jars/persistJdbc/xapool.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_all_jars/persistJDO/com.springsource.javax.jdo-2.1.0.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_core_jars/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_core_jars/com.springsource.org.apache.log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_core_jars/jmxtools-1.2.1.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_core_jars/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_core_jars/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_core_jars/org.springframework.context-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_core_jars/org.springframework.core-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/spring_core_jars/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/asm.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/asm-attrs.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/c3p0-0.9.1.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/commons-logging-1.0.4.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/ehcache-1.2.3.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/ejb3-persistence.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/hibernate3.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/hibernate-validator.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/jdbc2_0-stdext.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/jta.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/hibernate Jar/xerces-2.6.2.jar"/>
+	<classpathentry kind="lib" path="E:/External-Library/mysql-connector-java-5.1.45-bin.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
