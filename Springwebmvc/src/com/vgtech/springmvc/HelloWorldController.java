@@ -6,7 +6,7 @@ import org.springframework.web.servlet.ModelAndView;
 
 @Controller  
 public class HelloWorldController {
-	@RequestMapping("hello.html")  
+	@RequestMapping("/hello")  
 	public ModelAndView helloWorld(){
 		String message = "Hello spring mvc";
 		return new ModelAndView("hellopage", "message", message);
