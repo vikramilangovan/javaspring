@@ -8,21 +8,5 @@
 	</classpathentry>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
 	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
-	<classpathentry kind="lib" path="D:/New folder/com.springsource.org.apache.commons.fileupload-1.2.0.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/com.springsource.org.apache.commons.httpclient-3.1.0.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/com.springsource.org.apache.commons.logging-1.1.1.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/com.springsource.org.apache.log4j-1.2.15.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/com.springsource.org.codehaus.jackson.mapper-1.0.0.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/jmxtools-1.2.1.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/org.springframework.asm-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/org.springframework.beans-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/org.springframework.context-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/org.springframework.core-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/org.springframework.expression-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/org.springframework.oxm-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/org.springframework.web.portlet-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/org.springframework.web.servlet-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/org.springframework.web.struts-3.0.1.RELEASE-A.jar"/>
-	<classpathentry kind="lib" path="D:/New folder/org.springframework.web-3.0.1.RELEASE-A.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
