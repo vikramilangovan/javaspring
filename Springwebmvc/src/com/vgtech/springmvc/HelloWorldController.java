@@ -11,6 +11,4 @@ public class HelloWorldController {
 		String message = "Hello spring mvc";
 		return new ModelAndView("hellopage", "message", message);
 	}
-
-	
 }
